@@ -1,0 +1,17 @@
+2026-01-31 00:43:21 [INFO]: Google login attempt {"email":"sangphamyn313@gmail.com","hasGoogleId":true,"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 00:43:22 [INFO]: New user created via Google {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","name":"Phạm Văn Sang"}
+2026-01-31 00:43:22 [INFO]: Google login successful {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com"}
+2026-01-31 00:59:19 [INFO]: Google login attempt {"email":"sangphamyn313@gmail.com","hasGoogleId":true,"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 00:59:19 [INFO]: Existing user logged in via Google {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com"}
+2026-01-31 00:59:19 [INFO]: Google login successful {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com"}
+2026-01-31 01:47:09 [INFO]: Login attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 01:47:09 [WARN]: Login failed - no password set {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-01-31 01:48:07 [INFO]: Login attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 01:48:07 [WARN]: Login failed - no password set {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-01-31 01:48:12 [INFO]: Login attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 01:48:12 [WARN]: Login failed - no password set {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-01-31 01:48:16 [INFO]: Password reset request {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 01:48:16 [WARN]: Password reset requested for OAuth-only account {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-01-31 01:52:32 [INFO]: Google login attempt {"email":"sangphamyn313@gmail.com","hasGoogleId":true,"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 01:52:32 [INFO]: Existing user logged in via Google {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com"}
+2026-01-31 01:52:32 [INFO]: Google login successful {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com"}

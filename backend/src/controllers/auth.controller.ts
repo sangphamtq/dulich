@@ -266,10 +266,10 @@ export async function login(req: Request, res: Response) {
         if (!user) {
             logger.warn('Login failed - user not found', { email: sanitizedEmail })
 
-            return res.status(401).json({
+            return res.json({
                 success: false,
                 code: 'INVALID_CREDENTIALS',
-                message: 'Email hoặc mật khẩu không đúng.'
+                message: 'Email chưa được đăng ký.'
             })
         }
 
@@ -281,10 +281,10 @@ export async function login(req: Request, res: Response) {
                 authProviders: user.authProviders
             })
 
-            return res.status(401).json({
+            return res.json({
                 success: false,
                 code: 'NO_PASSWORD_SET',
-                message: 'Tài khoản này đăng nhập bằng mạng xã hội. Vui lòng sử dụng phương thức đăng nhập tương ứng.'
+                message: 'Tài khoản này đăng nhập bằng email. Vui lòng sử dụng phương thức đăng nhập tương ứng.'
             })
         }
 
@@ -297,10 +297,10 @@ export async function login(req: Request, res: Response) {
                 email: sanitizedEmail
             })
 
-            return res.status(401).json({
+            return res.json({
                 success: false,
                 code: 'INVALID_CREDENTIALS',
-                message: 'Email hoặc mật khẩu không đúng.'
+                message: 'Mật khẩu không đúng.'
             })
         }
 
@@ -327,7 +327,7 @@ export async function login(req: Request, res: Response) {
                     email: sanitizedEmail
                 })
 
-                return res.status(403).json({
+                return res.json({
                     success: false,
                     code: 'EMAIL_NOT_VERIFIED',
                     message: 'Tài khoản chưa xác thực. Chúng tôi đã gửi lại email xác nhận cho bạn.'
@@ -632,7 +632,7 @@ export async function forgotPassword(req: Request, res: Response) {
             '15m'
         )
 
-        const resetLink = `${process.env.CLIENT_URL}/reset-password?token=${resetToken}`
+        const resetLink = `${process.env.API_URL}/auth/reset-password?token=${resetToken}`
 
         // Send reset email
         try {
@@ -694,7 +694,7 @@ export async function verifyResetPassword(req: Request, res: Response) {
             logger.warn('Reset password verification failed - missing token')
 
             return res.redirect(
-                `${process.env.CLIENT_URL}/reset-password?status=invalid&message=${encodeURIComponent('Token không hợp lệ')}`
+                `${process.env.CLIENT_URL}/auth/reset-password?status=invalid&message=${encodeURIComponent('Token không hợp lệ')}`
             )
         }
 
@@ -900,4 +900,12 @@ export async function resetPassword(req: Request, res: Response) {
             error: process.env.NODE_ENV === 'development' ? error.message : undefined
         })
     }
+}
+
+export async function getMe(req: any, res: Response) {
+    const user = await User.findById(req.user.userId).select(
+        "_id email name picture authProviders"
+    );
+
+    res.json(user);
 }

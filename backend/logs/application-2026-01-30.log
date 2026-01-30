@@ -10,3 +10,169 @@
 2026-01-30 13:33:47 [INFO]: Login attempt {"email":"sangpv81@gmail.com","ip":"::1","userAgent":"PostmanRuntime/7.51.0"}
 2026-01-30 13:33:47 [INFO]: Login failed - email not verified, sending verification email {"userId":"697c4d3f48403e5193defd3e","email":"sangpv81@gmail.com"}
 2026-01-30 13:33:47 [INFO]: Verification email resent {"userId":"697c4d3f48403e5193defd3e","email":"sangpv81@gmail.com"}
+2026-01-30 18:59:32 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 18:59:33 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-30 18:59:37 [INFO]: Registration attempt {"email":"sangpv82@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 18:59:37 [INFO]: User registered successfully {"userId":"697c9d295f827537094a5e04","email":"sangpv82@gmail.com"}
+2026-01-30 18:59:37 [INFO]: Verification email sent {"userId":"697c9d295f827537094a5e04","email":"sangpv82@gmail.com"}
+2026-01-30 19:02:12 [INFO]: Email verification attempt {"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","hasToken":true}
+2026-01-30 19:02:13 [INFO]: Email verified successfully {"userId":"697c9d295f827537094a5e04","email":"sangpv82@gmail.com"}
+2026-01-30 19:11:15 [INFO]: Email verification attempt {"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","hasToken":true}
+2026-01-30 19:11:16 [INFO]: Email already verified {"userId":"697c9d295f827537094a5e04","email":"sangpv82@gmail.com"}
+2026-01-30 19:14:22 [INFO]: Registration attempt {"email":"sangpv823@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:14:22 [INFO]: User registered successfully {"userId":"697ca09e5f827537094a5e0a","email":"sangpv823@gmail.com"}
+2026-01-30 19:14:22 [INFO]: Verification email sent {"userId":"697ca09e5f827537094a5e0a","email":"sangpv823@gmail.com"}
+2026-01-30 19:14:28 [INFO]: Email verification attempt {"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","hasToken":true}
+2026-01-30 19:14:28 [INFO]: Email verified successfully {"userId":"697ca09e5f827537094a5e0a","email":"sangpv823@gmail.com"}
+2026-01-30 19:20:16 [INFO]: Registration attempt {"email":"sangpv84@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:20:16 [INFO]: User registered successfully {"userId":"697ca2005f827537094a5e0f","email":"sangpv84@gmail.com"}
+2026-01-30 19:20:16 [INFO]: Verification email sent {"userId":"697ca2005f827537094a5e0f","email":"sangpv84@gmail.com"}
+2026-01-30 19:20:21 [INFO]: Email verification attempt {"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","hasToken":true}
+2026-01-30 19:20:21 [INFO]: Email verified successfully {"userId":"697ca2005f827537094a5e0f","email":"sangpv84@gmail.com"}
+2026-01-30 19:26:30 [INFO]: Registration attempt {"email":"sangpv81@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:26:30 [WARN]: Registration failed - account exists {"email":"sangpv81@gmail.com"}
+2026-01-30 19:26:34 [INFO]: Registration attempt {"email":"sangpv813@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:26:35 [INFO]: User registered successfully {"userId":"697ca37a5f827537094a5e15","email":"sangpv813@gmail.com"}
+2026-01-30 19:26:35 [INFO]: Verification email sent {"userId":"697ca37a5f827537094a5e15","email":"sangpv813@gmail.com"}
+2026-01-30 19:26:38 [INFO]: Email verification attempt {"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","hasToken":true}
+2026-01-30 19:26:39 [INFO]: Email verified successfully {"userId":"697ca37a5f827537094a5e15","email":"sangpv813@gmail.com"}
+2026-01-30 19:27:17 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:27:17 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-30 19:27:18 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:27:18 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-30 19:27:18 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:27:18 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-30 19:27:19 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:27:19 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-30 19:27:19 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:27:19 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-30 19:27:20 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:27:20 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-30 19:27:20 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:27:20 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-30 19:27:21 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:27:21 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-30 19:27:21 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:27:21 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-30 19:27:22 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:27:22 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-30 19:27:22 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:27:22 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-30 19:27:23 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:27:23 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-30 19:27:24 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:27:24 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-30 19:27:25 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:27:25 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-30 19:27:28 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:27:28 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-30 19:27:28 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:27:28 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-30 19:27:29 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:27:29 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-30 19:27:30 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:27:30 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-30 19:28:59 [INFO]: Login attempt {"email":"sangphamtq141@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:28:59 [WARN]: Login failed - user not found {"email":"sangphamtq141@gmail.com"}
+2026-01-30 19:29:00 [INFO]: Login attempt {"email":"sangphamtq141@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:29:00 [WARN]: Login failed - user not found {"email":"sangphamtq141@gmail.com"}
+2026-01-30 19:30:48 [INFO]: Login attempt {"email":"sangphamtq141@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:30:48 [WARN]: Login failed - user not found {"email":"sangphamtq141@gmail.com"}
+2026-01-30 19:31:39 [INFO]: Login attempt {"email":"sangphamtq141@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:31:39 [INFO]: Login attempt {"email":"sangphamtq141@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:31:39 [WARN]: Login failed - user not found {"email":"sangphamtq141@gmail.com"}
+2026-01-30 19:31:39 [WARN]: Login failed - user not found {"email":"sangphamtq141@gmail.com"}
+2026-01-30 19:31:41 [INFO]: Login attempt {"email":"sangphamtq141@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:31:41 [WARN]: Login failed - user not found {"email":"sangphamtq141@gmail.com"}
+2026-01-30 19:31:41 [INFO]: Login attempt {"email":"sangphamtq141@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:31:41 [WARN]: Login failed - user not found {"email":"sangphamtq141@gmail.com"}
+2026-01-30 19:32:36 [INFO]: Login attempt {"email":"sangphamtq141@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:32:36 [WARN]: Login failed - user not found {"email":"sangphamtq141@gmail.com"}
+2026-01-30 19:32:43 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:32:43 [INFO]: Login failed - email not verified, sending verification email {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:32:43 [INFO]: Verification email resent {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:32:45 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:32:45 [INFO]: Login failed - email not verified, sending verification email {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:32:45 [INFO]: Verification email resent {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:32:46 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:32:46 [INFO]: Login failed - email not verified, sending verification email {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:32:46 [INFO]: Verification email resent {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:32:47 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:32:47 [INFO]: Login failed - email not verified, sending verification email {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:32:47 [INFO]: Verification email resent {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:33:42 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::ffff:127.0.0.1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:33:42 [INFO]: Login failed - email not verified, sending verification email {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:33:42 [INFO]: Verification email resent {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:34:38 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::ffff:127.0.0.1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:34:38 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:35:12 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:35:12 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:35:25 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:35:25 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:36:46 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:36:46 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:36:47 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:36:48 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:36:48 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:36:48 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:36:49 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:36:49 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:36:49 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:36:50 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:36:53 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:36:53 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:36:54 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:36:54 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:36:55 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:36:55 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:36:56 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:36:56 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:36:57 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:36:57 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:36:58 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:36:58 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:36:58 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:36:59 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:36:59 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:36:59 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:37:00 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:37:00 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:37:01 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:37:01 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:37:01 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:37:02 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:37:02 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:37:02 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:48:15 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:48:15 [INFO]: Login failed - email not verified, sending verification email {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:48:15 [INFO]: Verification email resent {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:48:20 [INFO]: Email verification attempt {"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","hasToken":true}
+2026-01-30 19:48:20 [INFO]: Email verified successfully {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:48:31 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:48:31 [INFO]: Login successful {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 19:59:36 [INFO]: Password reset request {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 19:59:36 [INFO]: Password reset email sent {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 20:03:36 [INFO]: Password reset request {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 20:03:36 [INFO]: Password reset email sent {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 20:06:43 [INFO]: Password reset request {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 20:06:43 [INFO]: Password reset email sent {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 20:07:38 [INFO]: Reset password token verification attempt {"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","hasToken":true}
+2026-01-30 20:07:38 [INFO]: Reset password token verified successfully {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 20:07:56 [INFO]: Password reset attempt {"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","hasToken":true}
+2026-01-30 20:07:56 [INFO]: Password reset successful {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 20:08:26 [INFO]: Password reset attempt {"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","hasToken":true}
+2026-01-30 20:08:26 [INFO]: Password reset successful {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 20:09:00 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 20:09:00 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 20:09:04 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 20:09:04 [INFO]: Login successful {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 23:28:35 [INFO]: Password reset request {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 23:28:35 [INFO]: Password reset email sent {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 23:33:27 [INFO]: Reset password token verification attempt {"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","hasToken":true}
+2026-01-30 23:33:27 [INFO]: Reset password token verified successfully {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 23:36:13 [INFO]: Password reset attempt {"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","hasToken":true}
+2026-01-30 23:36:14 [INFO]: Password reset successful {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 23:36:23 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 23:36:23 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-01-30 23:36:25 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-30 23:36:26 [INFO]: Login successful {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
