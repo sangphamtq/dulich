@@ -51,7 +51,7 @@ const Header = () => {
     }, [open])
 
     return (
-        <header className="w-full border-b border-solid border-[#f0f2f4]">
+        <header className="w-full border-b border-solid border-[#f0f2f4] sticky top-0 z-50 bg-white">
             <div className="max-w-7xl mx-auto flex justify-between px-4 py-3">
                 <Link to="/" className="font-bold tracking-tight flex items-center gap-3">
                     <div className="size-8 text-primary">
@@ -101,12 +101,12 @@ const Header = () => {
                         {open && (
                             <div
                                 role="menu"
-                                className="absolute right-0 mt-2 w-48 rounded-lg border border-[#f0f2f4] bg-white shadow-lg overflow-hidden p-1"
+                                className="absolute right-0 mt-2 w-48 rounded-lg border border-[#f0f2f4] bg-white shadow-lg overflow-hidden p-1 z-50"
                             >
                                 <div className="px-2 py-1.5 text-muted-foreground text-xs leading-none">{email}</div>
                                 <div className="bg-gray-100 -mx-1 my-1 h-px"></div>
                                 <Link
-                                    to="/"
+                                    to="/profile"
                                     className="w-full text-left px-2 py-1.5 text-sm rounded-md font-nornal hover:bg-[#f0f2f4] transition cursor-pointer flex items-center gap-2"
                                 >
                                     <User className="size-4 text-primary" /> Trang cá nhân

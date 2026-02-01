@@ -9,28 +9,51 @@ import { useAuth } from "../auth/AuthContext"
 import ForgotPasswordPage from "../pages/ForgotPasswordPage"
 import ResetPasswordPage from "../pages/ResetPasswordPage"
 import NotFoundPage from "../pages/NotFoundPage"
+import Profile from "../pages/Profile"
 
 export function AppRoutes() {
-    const { user } = useAuth()
+    const { user } = useAuth();
+
+    const publicRoutes = [
+        { path: "/", element: <HomePage /> },
+    ];
+
+    const protectedRoutes = [
+        {
+            path: "profile",
+            element: (
+                user
+                    ? <Profile />
+                    : <Navigate to="/login" replace />
+            ),
+        },
+    ];
+
+    const guestRoutes = [
+        { path: "login", element: <LoginPage /> },
+        { path: "register", element: <RegisterPage /> },
+    ];
+
+    const utilityRoutes = [
+        { path: "verify-email-notice", element: <VerifyEmailNoticePage /> },
+        { path: "verify-email", element: <VerifyEmailPage /> },
+        { path: "forgot-password", element: <ForgotPasswordPage /> },
+        { path: "reset-password", element: <ResetPasswordPage /> },
+        { path: "*", element: <NotFoundPage /> },
+    ];
 
     return useRoutes([
         {
             element: <MainLayout />,
             children: [
-                { path: '/', element: <HomePage /> }
-            ]
+                ...publicRoutes,
+                ...protectedRoutes,
+            ],
         },
         {
             element: user ? <Navigate to="/" replace /> : <Outlet />,
-            children: [
-                { path: 'login', element: <LoginPage /> },
-                { path: 'register', element: <RegisterPage /> },
-            ]
+            children: guestRoutes,
         },
-        { path: 'verify-email-notice', element: <VerifyEmailNoticePage /> },
-        { path: 'verify-email', element: <VerifyEmailPage /> },
-        { path: 'forgot-password', element: <ForgotPasswordPage /> },
-        { path: 'reset-password', element: <ResetPasswordPage /> },
-        { path: '*', element: <NotFoundPage /> }
-    ])
+        ...utilityRoutes,
+    ]);
 }

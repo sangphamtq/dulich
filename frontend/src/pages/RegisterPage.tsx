@@ -93,7 +93,7 @@ const RegisterPage = () => {
                 <div className="w-[800px] flex rounded-xl overflow-hidden bg-white shadow-lg">
                     {/* Left */}
 
-                    <div className="w-1/2 bg-primary-300 px-6">
+                    <div className="w-1/2 bg-primary-300 px-6 flex items-center">
                         <img src="./banner_dulich.png"></img>
                     </div>
 
@@ -140,7 +140,7 @@ const RegisterPage = () => {
                             {/* Confirm password */}
                             <Input
                                 type="password"
-                                label="Mật khẩu"
+                                label="Xác nhận mật khẩu"
                                 id="confirmPassword"
                                 placeholder="Xác nhận mật khẩu"
                                 icon={LockIcon}

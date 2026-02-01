@@ -284,7 +284,7 @@ export async function login(req: Request, res: Response) {
             return res.json({
                 success: false,
                 code: 'NO_PASSWORD_SET',
-                message: 'Tài khoản này đăng nhập bằng email. Vui lòng sử dụng phương thức đăng nhập tương ứng.'
+                message: 'Tài khoản này đăng nhập bằng email. Vui lòng sử dụng phương thức đăng nhập tương ứng hoặc bấm Quên mật khẩu để đặt lại mật khẩu.'
             })
         }
 
@@ -564,8 +564,7 @@ export async function forgotPassword(req: Request, res: Response) {
 
         const sanitizedEmail = validator.normalizeEmail(email) || ''
 
-        // Validation: Missing email
-        if (!sanitizedEmail) {
+        if (!email) {
             logger.warn('Password reset failed - missing email')
 
             return res.status(400).json({
@@ -575,7 +574,6 @@ export async function forgotPassword(req: Request, res: Response) {
             })
         }
 
-        // Validation: Email format
         if (!validateEmail(sanitizedEmail)) {
             logger.warn('Password reset failed - invalid email format', {
                 email: sanitizedEmail
@@ -588,41 +586,19 @@ export async function forgotPassword(req: Request, res: Response) {
             })
         }
 
-        // Find user
         const user = await User.findOne({ email: sanitizedEmail })
-
-        // Security: Luôn trả về message giống nhau
-        // để không tiết lộ email có tồn tại hay không
-        const successMessage = 'Nếu email này tồn tại trong hệ thống, chúng tôi đã gửi link đặt lại mật khẩu.'
 
         if (!user) {
             logger.info('Password reset requested for non-existent email', {
                 email: sanitizedEmail
             })
 
-            // Trả về success để không lộ thông tin
             return res.status(200).json({
-                success: true,
-                message: successMessage
+                success: false,
+                message: 'Email chưa được đăng ký'
             })
         }
 
-        // Check if user has password (OAuth users might not)
-        if (!user.password) {
-            logger.warn('Password reset requested for OAuth-only account', {
-                userId: user._id,
-                email: sanitizedEmail,
-                authProviders: user.authProviders
-            })
-
-            // Vẫn trả về success message để không lộ thông tin
-            return res.status(200).json({
-                success: true,
-                message: successMessage
-            })
-        }
-
-        // Generate reset token (15 minutes expiry)
         const resetToken = signToken(
             {
                 userId: user._id.toString(),
@@ -634,7 +610,6 @@ export async function forgotPassword(req: Request, res: Response) {
 
         const resetLink = `${process.env.API_URL}/auth/reset-password?token=${resetToken}`
 
-        // Send reset email
         try {
             await sendResetPasswordEmail(sanitizedEmail, resetLink)
 
@@ -645,7 +620,7 @@ export async function forgotPassword(req: Request, res: Response) {
 
             return res.status(200).json({
                 success: true,
-                message: successMessage
+                message: 'Chúng tôi đã gửi link đặt lại mật khẩu.'
             })
         } catch (mailError: any) {
             logger.error('Failed to send password reset email', {
@@ -659,7 +634,7 @@ export async function forgotPassword(req: Request, res: Response) {
             // Nhưng vẫn trả về success để UX tốt hơn
             return res.status(200).json({
                 success: true,
-                message: successMessage
+                message: 'Lỗi server'
             })
         }
 
