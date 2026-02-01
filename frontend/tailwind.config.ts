@@ -8,53 +8,65 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        /* ========= BRAND ========= */
         primary: {
-          DEFAULT: "#16A34A", // CTA chính
-          hover: "#15803D",
-          soft: "rgba(22,163,74,0.15)",
+          DEFAULT: '#2563eb',
+          50: '#eff6ff',
+          100: '#dbeafe',
+          200: '#bfdbfe',
+          300: '#93c5fd',
+          400: '#60a5fa',
+          500: '#3b82f6',
+          600: '#2563eb',
+          700: '#1d4ed8',
+          800: '#1e40af',
+          900: '#1e3a8a',
+          hover: '#1e40af'
         },
-
         secondary: {
-          DEFAULT: "#2563EB", // link, action phụ
-          hover: "#1D4ED8",
-          soft: "rgba(37,99,235,0.15)",
+          DEFAULT: '#475569',
+          50: '#f8fafc',
+          100: '#f1f5f9',
+          200: '#e2e8f0',
+          300: '#cbd5f5',
+          400: '#94a3b8',
+          500: '#64748b',
+          600: '#475569',
+          700: '#334155',
+          800: '#1e293b',
+          900: '#0f172a',
         },
-
-        accent: {
-          DEFAULT: "#CA8A04", // warning / highlight
+        success: {
+          50: '#f0fdf4',
+          100: '#dcfce7',
+          200: '#bbf7d0',
+          300: '#86efac',
+          400: '#4ade80',
+          500: '#22c55e',
+          600: '#16a34a',
+          700: '#15803d',
+          800: '#166534',
+          900: '#14532d',
         },
-
-        /* ========= BACKGROUND ========= */
+        error: {
+          DEFAULT: '#ef4444'
+        },
+        link: {
+          DEFAULT: '#3b82f6',
+          hover: '#1d4ed8'
+        }
+      },
+      textColor: {
+        helper: '#535862'
+      },
+      ringColor: {
+        default: '#d5d7da',
+        hover: '#adaeaf'
+      },
+      backgroundColor: {
         surface: {
-          DEFAULT: "#FFFFFF", // card
-          muted: "#FFF4CC",   // nền vàng nhạt
-        },
-
-        /* ========= TEXT ========= */
-        text: {
-          primary: "#111827",
-          secondary: "#6B7280",
-          disabled: "#9CA3AF",
-          inverse: "#FFFFFF",
-        },
-
-        /* ========= BORDER ========= */
-        border: {
-          DEFAULT: "#E5E7EB",
-          focus: "#16A34A",
-        },
-      },
-
-      borderRadius: {
-        xl: "12px",
-        "2xl": "16px",
-      },
-
-      boxShadow: {
-        card: "0 10px 25px rgba(0,0,0,0.05)",
-        focus: "0 0 0 2px rgba(22,163,74,0.15)",
-      },
+          DEFAULT: '#f0fdf4'
+        }
+      }
     },
   },
   plugins: [],

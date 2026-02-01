@@ -24,6 +24,10 @@ const GoogleLoginButton = () => {
 
   return (
     <GoogleLogin
+      theme="outline"
+      size="large"
+      shape='pill'
+      text='continue_with'
       onSuccess={(credentialResponse) => {
         if (credentialResponse.credential) {
           handleSuccess({ credential: credentialResponse.credential });

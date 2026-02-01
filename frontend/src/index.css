@@ -1,2 +1,7 @@
 @config "../tailwind.config.ts";
 @import "tailwindcss";
+
+html {
+    color: #222222;
+    font-family: "Google Sans Flex", sans-serif;
+}

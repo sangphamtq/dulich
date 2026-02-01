@@ -15,3 +15,81 @@
 2026-01-31 01:52:32 [INFO]: Google login attempt {"email":"sangphamyn313@gmail.com","hasGoogleId":true,"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
 2026-01-31 01:52:32 [INFO]: Existing user logged in via Google {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com"}
 2026-01-31 01:52:32 [INFO]: Google login successful {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com"}
+2026-01-31 12:55:00 [INFO]: Login attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 12:55:00 [WARN]: Login failed - no password set {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-01-31 12:55:03 [INFO]: Login attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 12:55:03 [WARN]: Login failed - no password set {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-01-31 12:55:04 [INFO]: Login attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 12:55:04 [WARN]: Login failed - no password set {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-01-31 12:55:04 [INFO]: Login attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 12:55:04 [WARN]: Login failed - no password set {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-01-31 12:55:05 [INFO]: Login attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 12:55:05 [WARN]: Login failed - no password set {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-01-31 12:56:46 [INFO]: Login attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 12:56:46 [WARN]: Login failed - no password set {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-01-31 12:56:46 [INFO]: Login attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 12:56:46 [WARN]: Login failed - no password set {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-01-31 12:56:50 [INFO]: Login attempt {"email":"sangphamyn@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 12:56:50 [WARN]: Login failed - user not found {"email":"sangphamyn@gmail.com"}
+2026-01-31 12:56:54 [INFO]: Login attempt {"email":"sangphamyn@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 12:56:54 [WARN]: Login failed - user not found {"email":"sangphamyn@gmail.com"}
+2026-01-31 12:56:55 [INFO]: Login attempt {"email":"sangphamyn@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 12:56:55 [WARN]: Login failed - user not found {"email":"sangphamyn@gmail.com"}
+2026-01-31 12:56:55 [INFO]: Login attempt {"email":"sangphamyn@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 12:56:55 [WARN]: Login failed - user not found {"email":"sangphamyn@gmail.com"}
+2026-01-31 12:56:56 [INFO]: Login attempt {"email":"sangphamyn@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 12:56:56 [WARN]: Login failed - user not found {"email":"sangphamyn@gmail.com"}
+2026-01-31 12:56:56 [INFO]: Login attempt {"email":"sangphamyn@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 12:56:56 [WARN]: Login failed - user not found {"email":"sangphamyn@gmail.com"}
+2026-01-31 12:56:56 [INFO]: Login attempt {"email":"sangphamyn@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 12:56:56 [WARN]: Login failed - user not found {"email":"sangphamyn@gmail.com"}
+2026-01-31 12:58:22 [INFO]: Login attempt {"email":"sangphamyn@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 12:58:22 [WARN]: Login failed - user not found {"email":"sangphamyn@gmail.com"}
+2026-01-31 12:58:23 [INFO]: Login attempt {"email":"sangphamyn@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 12:58:23 [WARN]: Login failed - user not found {"email":"sangphamyn@gmail.com"}
+2026-01-31 12:58:23 [INFO]: Login attempt {"email":"sangphamyn@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 12:58:23 [WARN]: Login failed - user not found {"email":"sangphamyn@gmail.com"}
+2026-01-31 12:58:24 [INFO]: Login attempt {"email":"sangphamyn@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 12:58:24 [WARN]: Login failed - user not found {"email":"sangphamyn@gmail.com"}
+2026-01-31 12:58:24 [INFO]: Login attempt {"email":"sangphamyn@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 12:58:24 [WARN]: Login failed - user not found {"email":"sangphamyn@gmail.com"}
+2026-01-31 12:58:24 [INFO]: Login attempt {"email":"sangphamyn@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 12:58:25 [WARN]: Login failed - user not found {"email":"sangphamyn@gmail.com"}
+2026-01-31 12:58:25 [INFO]: Login attempt {"email":"sangphamyn@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 12:58:25 [WARN]: Login failed - user not found {"email":"sangphamyn@gmail.com"}
+2026-01-31 13:03:41 [INFO]: Login attempt {"email":"sangphamyn@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 13:03:42 [WARN]: Login failed - user not found {"email":"sangphamyn@gmail.com"}
+2026-01-31 13:03:47 [INFO]: Login attempt {"email":"sangphamyn@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 13:03:47 [WARN]: Login failed - user not found {"email":"sangphamyn@gmail.com"}
+2026-01-31 13:03:48 [INFO]: Login attempt {"email":"sangphamyn@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 13:03:48 [WARN]: Login failed - user not found {"email":"sangphamyn@gmail.com"}
+2026-01-31 13:03:48 [INFO]: Login attempt {"email":"sangphamyn@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 13:03:48 [WARN]: Login failed - user not found {"email":"sangphamyn@gmail.com"}
+2026-01-31 13:03:49 [INFO]: Login attempt {"email":"sangphamyn@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 13:03:49 [WARN]: Login failed - user not found {"email":"sangphamyn@gmail.com"}
+2026-01-31 13:08:56 [INFO]: Login attempt {"email":"sangphamyn@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 13:08:56 [WARN]: Login failed - user not found {"email":"sangphamyn@gmail.com"}
+2026-01-31 13:08:57 [INFO]: Login attempt {"email":"sangphamyn@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 13:08:57 [WARN]: Login failed - user not found {"email":"sangphamyn@gmail.com"}
+2026-01-31 13:08:59 [INFO]: Login attempt {"email":"sangphamyn@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 13:08:59 [WARN]: Login failed - user not found {"email":"sangphamyn@gmail.com"}
+2026-01-31 13:09:00 [INFO]: Login attempt {"email":"sangphamyn@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 13:09:00 [WARN]: Login failed - user not found {"email":"sangphamyn@gmail.com"}
+2026-01-31 14:25:15 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 14:25:15 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-31 14:25:15 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 14:25:15 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-31 14:25:16 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 14:25:16 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-31 14:25:16 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 14:25:16 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-31 14:25:23 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 14:25:23 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-31 15:17:14 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 15:17:15 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-31 15:17:15 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 15:17:15 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-31 15:17:16 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 15:17:16 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-01-31 15:21:37 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-01-31 15:21:37 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}

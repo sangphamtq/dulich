@@ -1,0 +1,360 @@
+2026-02-01 11:17:06 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:17:06 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 11:19:57 [INFO]: Login attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:19:57 [WARN]: Login failed - no password set {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-02-01 11:20:02 [INFO]: Login attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:20:02 [WARN]: Login failed - no password set {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-02-01 11:20:03 [INFO]: Login attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:20:03 [WARN]: Login failed - no password set {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-02-01 11:20:03 [INFO]: Login attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:20:03 [WARN]: Login failed - no password set {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-02-01 11:20:03 [INFO]: Login attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:20:03 [WARN]: Login failed - no password set {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-02-01 11:20:04 [INFO]: Login attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:20:04 [WARN]: Login failed - no password set {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-02-01 11:20:04 [INFO]: Login attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:20:04 [WARN]: Login failed - no password set {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-02-01 11:20:05 [INFO]: Login attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:20:05 [WARN]: Login failed - no password set {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-02-01 11:20:05 [INFO]: Login attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:20:05 [WARN]: Login failed - no password set {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-02-01 11:20:06 [INFO]: Login attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:20:06 [WARN]: Login failed - no password set {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-02-01 11:20:06 [INFO]: Login attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:20:06 [WARN]: Login failed - no password set {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-02-01 11:20:07 [INFO]: Login attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:20:07 [WARN]: Login failed - no password set {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-02-01 11:20:07 [INFO]: Login attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:20:07 [WARN]: Login failed - no password set {"userId":"697cedb94223277356775029","email":"sangphamyn313@gmail.com","authProviders":["google"]}
+2026-02-01 11:20:13 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:20:13 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 11:20:14 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:20:14 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 11:20:14 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:20:14 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 11:20:15 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:20:15 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 11:20:15 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:20:15 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 11:20:16 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:20:16 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 11:20:16 [INFO]: Login attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:20:16 [WARN]: Login failed - incorrect password {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 11:37:58 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:37:58 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:37:59 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:37:59 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:37:59 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:37:59 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:38:06 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:38:06 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:42:17 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:42:17 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:42:24 [INFO]: Registration attempt {"email":"sangphamyn313@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:42:24 [WARN]: Registration failed - account exists {"email":"sangphamyn313@gmail.com"}
+2026-02-01 11:42:27 [INFO]: Registration attempt {"email":"asdf@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:42:27 [INFO]: User registered successfully {"userId":"697ed9b3dc14fa1993ffd7c1","email":"asdf@gmail.com"}
+2026-02-01 11:42:27 [INFO]: Verification email sent {"userId":"697ed9b3dc14fa1993ffd7c1","email":"asdf@gmail.com"}
+2026-02-01 11:42:52 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:42:52 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:42:53 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:42:53 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:42:56 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:42:56 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:42:57 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:42:57 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:42:58 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:42:58 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:42:59 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:42:59 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:43:13 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:43:13 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:44:42 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:44:42 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:44:53 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:44:53 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:44:55 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:44:55 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:44:55 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:44:55 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:44:55 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:44:55 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:44:55 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:44:55 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:44:56 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:44:56 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:44:56 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:44:56 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:44:56 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:44:56 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:44:57 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:44:57 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:44:57 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:44:57 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:44:57 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:44:57 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:44:57 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:44:57 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:44:57 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:44:58 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:44:58 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:44:58 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:44:58 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:44:58 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:44:58 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:44:58 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:44:59 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:44:59 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:44:59 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:44:59 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:44:59 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:44:59 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:44:59 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:44:59 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:44:59 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:45:00 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:45:00 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:45:00 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:45:00 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:45:00 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:45:00 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:45:00 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:45:00 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:45:00 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:45:01 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:45:01 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:45:01 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:45:01 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:45:01 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:45:01 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:45:01 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:45:01 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:45:02 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:45:02 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:45:02 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:45:02 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:45:02 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:45:02 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:45:03 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:45:03 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:45:03 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:45:03 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:45:03 [INFO]: Registration attempt {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:45:03 [WARN]: Registration failed - account exists {"email":"sangpv8@gmail.com"}
+2026-02-01 11:49:59 [INFO]: Password reset request {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 11:49:59 [INFO]: Password reset email sent {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 11:50:45 [INFO]: Reset password token verification attempt {"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","hasToken":true}
+2026-02-01 11:50:45 [INFO]: Reset password token verified successfully {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 14:37:01 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:01 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:02 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:02 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:03 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:03 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:04 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:04 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:05 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:05 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:05 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:05 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:06 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:06 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:06 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:06 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:07 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:07 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:08 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:08 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:08 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:08 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:09 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:09 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:09 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:09 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:10 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:10 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:15 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:15 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:16 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:16 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:16 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:16 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:17 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:17 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:17 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:17 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:18 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:18 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:18 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:18 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:18 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:18 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:19 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:19 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:19 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:19 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:20 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:20 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:20 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:20 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:20 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:20 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:21 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:21 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:21 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:21 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:22 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:22 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:30 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:30 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:30 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:30 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:31 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:31 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:31 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:31 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:31 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:31 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:32 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:32 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:32 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:32 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:33 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:33 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:33 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:33 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:34 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:34 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:37:41 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:37:41 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:38:57 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:38:57 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:39:01 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:39:01 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:41:50 [INFO]: Password reset request {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:41:50 [INFO]: Password reset email sent {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 14:41:52 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:41:52 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:41:57 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:41:57 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:41:58 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:41:58 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:42:03 [INFO]: Password reset request {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:42:03 [INFO]: Password reset email sent {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 14:42:05 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:42:05 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:42:06 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:42:06 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:42:07 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:42:07 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:42:07 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:42:07 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:42:08 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:42:08 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:42:33 [INFO]: Password reset request {"email":"sangpv8@gmailcom","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:42:33 [WARN]: Password reset failed - invalid email format {"email":"sangpv8@gmailcom"}
+2026-02-01 14:42:34 [INFO]: Password reset request {"email":"sangpv8@gmailcom","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:42:34 [WARN]: Password reset failed - invalid email format {"email":"sangpv8@gmailcom"}
+2026-02-01 14:42:49 [INFO]: Password reset request {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:42:49 [INFO]: Password reset email sent {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 14:42:50 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:42:50 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:42:54 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:42:54 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:42:57 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:42:57 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:43:48 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:43:48 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:43:50 [INFO]: Password reset request {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:43:50 [INFO]: Password reset email sent {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 14:43:52 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:43:52 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:44:20 [INFO]: Password reset request {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:44:20 [INFO]: Password reset email sent {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 14:44:23 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:44:23 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:44:24 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:44:24 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:44:24 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:44:24 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:44:25 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:44:25 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:44:25 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:44:25 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:44:26 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:44:26 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:44:26 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:44:26 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:44:27 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:44:27 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:44:28 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:44:28 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:44:28 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:44:28 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 14:44:39 [INFO]: Reset password token verification attempt {"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","hasToken":true}
+2026-02-01 14:44:39 [INFO]: Reset password token verified successfully {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 14:44:50 [INFO]: Reset password token verification attempt {"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","hasToken":true}
+2026-02-01 14:44:50 [INFO]: Reset password token verified successfully {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 14:45:06 [INFO]: Reset password token verification attempt {"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","hasToken":true}
+2026-02-01 14:45:06 [INFO]: Reset password token verified successfully {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 14:46:57 [INFO]: Reset password token verification attempt {"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","hasToken":true}
+2026-02-01 14:46:57 [INFO]: Reset password token verified successfully {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 14:49:49 [INFO]: Reset password token verification attempt {"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","hasToken":true}
+2026-02-01 14:49:49 [INFO]: Reset password token verified successfully {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 14:49:50 [INFO]: Reset password token verification attempt {"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","hasToken":true}
+2026-02-01 14:49:50 [INFO]: Reset password token verified successfully {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 14:52:02 [INFO]: Password reset attempt {"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","hasToken":true}
+2026-02-01 14:52:02 [INFO]: Password reset successful {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 14:53:46 [INFO]: Registration attempt {"email":"sangpv1@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 14:53:46 [INFO]: User registered successfully {"userId":"697f068adc14fa1993ffd7f7","email":"sangpv1@gmail.com"}
+2026-02-01 14:53:46 [INFO]: Verification email sent {"userId":"697f068adc14fa1993ffd7f7","email":"sangpv1@gmail.com"}
+2026-02-01 14:53:55 [INFO]: Email verification attempt {"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","hasToken":true}
+2026-02-01 14:53:55 [INFO]: Email verified successfully {"userId":"697f068adc14fa1993ffd7f7","email":"sangpv1@gmail.com"}
+2026-02-01 15:07:21 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 15:07:21 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 15:07:22 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 15:07:22 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 15:07:23 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 15:07:23 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 15:07:23 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 15:07:23 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 15:07:23 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 15:07:23 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 15:07:24 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 15:07:24 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 15:07:24 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 15:07:24 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 15:07:24 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 15:07:24 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 15:07:25 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 15:07:25 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 15:07:25 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 15:07:25 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 15:07:25 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 15:07:25 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 15:07:25 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 15:07:25 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 15:07:26 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 15:07:26 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 15:07:26 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 15:07:26 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 15:07:26 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 15:07:26 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 15:07:26 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 15:07:26 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 15:07:27 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 15:07:27 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 15:08:08 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 15:08:08 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 15:08:09 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 15:08:09 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 15:08:09 [INFO]: Password reset request {"email":"","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 15:08:09 [WARN]: Password reset failed - invalid email format {"email":"@"}
+2026-02-01 15:13:01 [INFO]: Password reset request {"email":"sangpv8@gmail.com","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}
+2026-02-01 15:13:01 [INFO]: Password reset email sent {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 15:13:11 [INFO]: Reset password token verification attempt {"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","hasToken":true}
+2026-02-01 15:13:11 [INFO]: Reset password token verified successfully {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 15:16:40 [INFO]: Reset password token verification attempt {"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","hasToken":true}
+2026-02-01 15:16:40 [INFO]: Reset password token verified successfully {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
+2026-02-01 15:16:59 [INFO]: Reset password token verification attempt {"ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","hasToken":true}
+2026-02-01 15:16:59 [INFO]: Reset password token verified successfully {"userId":"697c4b828080484014ba35c1","email":"sangpv8@gmail.com"}
